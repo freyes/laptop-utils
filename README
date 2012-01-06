@@ -1,0 +1,14 @@
+My collection of tools to make my life easier.
+
+Motivation
+==========
+
+Since the appearance of Gnome 3 some things are broke for my setup 
+(Awesome WM + carefully picked components), so I'm trying to fill the gaps with
+simple scripts that ideally will do the same for me (and eventually for 
+somebody else too :P)
+
+Tools
+=====
+
+* touchpad: turn on, off, and toggle the status of the touchpad using synclient.
